@@ -1,0 +1,20 @@
+.sizing{
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+}
+h2{
+    text-align: center;
+}
+#ajouter{
+    height: 40px;
+    color: rgb(17, 1, 1);
+    background-color: rgb(82, 92, 236);
+    
+}
+#manuel{
+    padding-top: 45px;
+}
